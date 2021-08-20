@@ -2,7 +2,7 @@
 	
 
 
-#Finding Exponent function :
+#Finding power of a number :
 
 X = int(input("Enter a Base number : "))
 Y = int(input("Enter the power of a number : "))
